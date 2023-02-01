@@ -45,7 +45,7 @@ A **Full Stack Expense Tracker** with full functionality like adding trasactions
 
 ### 🤔 For Live Example:
 
-[MERN-Expense-Tracker](https://lovely-trifle-1892c1.netlify.app/)
+[MERN-Expense-Tracker](https://bright-cuff-tick.cyclic.app/)
 
 ### 👨‍💻 Execution:
 
